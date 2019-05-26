@@ -1,6 +1,6 @@
 # Description off the project
 
-This todo app use react and redux. it was created just for one basic tutorial. The user's can add new todos, mark as completed, remove a todo, and filter todos.
+This todo app use react and redux. The user's can add new todos, mark as completed, remove a todo, and filter todos.
 
 ## Screenshots
 
